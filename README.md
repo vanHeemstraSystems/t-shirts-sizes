@@ -1,6 +1,9 @@
 t-shirts-sizes
 # T-Shirt Sizes
 
+> T-shirt sizing is a project estimation and capacity planning tool that helps you track how much time or effort an initiative will take.<br/>
+> To do this, you assign each project or task a t-shirt size—from Extra Small to XXL—to represent that task's relative effort.
+
 | T-Shirt Size | Number of Sprints it takes to complete a task |
 | -- | --- |
 | Small (S) | <= 2 sprints |
