@@ -6,6 +6,7 @@ t-shirts-sizes
 
 | T-Shirt Size | Number of Sprints it takes to complete a task |
 | -- | --- |
+| Extra Small (XS) | 1 sprint |
 | Small (S) | <= 2 sprints |
 | Medium (M) | <= 3 sprints |
 | Large (L) | <= 5 sprints |
